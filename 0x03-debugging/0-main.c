@@ -1,16 +1,17 @@
 #include "main.h"
 
 /**
-* main - Tests the function positive_or_negative
-* Return: 0 if succesful,non-zer otherwise.
-*/
+  * main - Tests function  positive_or_negative
+  * as specified.
+  * Return: 0
+  */
 
 int main(void)
 {
 	int i;
 
-	i = 98;
+	i = 0;
 	positive_or_negative(i);
 
-	return (0);
+return (0);
 }
