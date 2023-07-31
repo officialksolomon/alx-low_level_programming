@@ -2,7 +2,7 @@
 
 /**
  * _memset - It is used to fill a block
- * of memory with a particular value. 
+ * of memory with a particular value.
  * @s: pointer ->to-char-parameter
  * @b: data to change
  * @n: index
