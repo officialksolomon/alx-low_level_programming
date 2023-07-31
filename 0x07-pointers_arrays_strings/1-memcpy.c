@@ -2,7 +2,7 @@
 
 /**
  * _memcpy -  copy a block of memory from a source
- * location to a destination location. 
+ * location to a destination location.
  * @dest: Pointer to char params.
  * @src: Pointer to char params.
  * @n: size
